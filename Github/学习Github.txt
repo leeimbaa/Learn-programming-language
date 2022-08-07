@@ -1,0 +1,42 @@
+2022/7/21
+今天第一天正式学会用GitHub
+Q:
+怎么查看代码历史版本记录？
+A：
+2022/7/22
+今天仍然在好好学习，加油！
+
+GIthub特殊的查找资源小技巧
+常用前缀后缀
+  -找百科大全awesome xxx
+  -找例子xxx sample
+  -找空项目架子xxx starter/xxx boilerplate
+  -找教程xxx tutorial
+  
+2022/7/26
+Git是一个运行在你电脑上的版本控制软件，而Github是基于Git这个版本控制软件打造的网站。
+Git的三个概念：提交commit 仓库repository 分支branch
+
+git基本命令
+安装好软件在项目文件夹内右键选择Git Bash Here
+配置基本用户信息
+git config --global user.name  <你的用户名>
+git config --global user.email  <你的邮箱地址>
+ 
+在当前文件夹创建仓库
+git init
+
+将当前所有文件夹文件设为“准备提交的状态” 把文件加入暂存区
+git add xxx.xx
+
+将指定文件设为“准备提交的状态” 把文件加入暂存区
+git add xxx.xx
+
+创建一个提交和备注
+git commit -m "提交的备注"
+
+从最后一次提交把文件复制到工作区
+git checkout HEAD xxx.xx
+
+显示提交历史
+git log

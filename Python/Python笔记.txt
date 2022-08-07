@@ -1,0 +1,85 @@
+什么是爬虫：
+  -通过编写程序，模拟浏览器上网，然后让其去互联网上抓取数据的过程。
+  
+爬虫的价值：
+  -实际应用
+  -就业
+
+安装https://www.sublimetext.com/文本编辑器
+安装Python时一定要把"Add Python 3.7 to PATH"勾选上
+Python的解释器:Python.exe
+
+打开python窗口
+按住shift右键Powershell
+
+IDLE:集成开发环境
+语法高亮
+注释多行代码：选中alt+3
+取消注释代码：选中alt+4
+按F5运行会在shell窗口显示
+Shell窗口 ALT+P 重复以前输入的内容 
+设置几个细节：
+1.字体：Courier New Bold 14（Options-Configure IDLE-Font/Tabs）
+2.启用自动保存功能(通用设置General-Editor Preferences-At Start of Run(F5)-NO Prompt)
+3.优先打开代码编辑窗口(通用设置General-Window Preferences- At Starup-Open Edit Window)
+
+“交互式”编程模式
+交互：输入代码并回车后，Python解释器会立刻执行代码，写一句，执行一句。
+进入交互式编程
+Python.exe
+退出交互式编程
+>>>exit（）
+
+符号注意半角还是圆角
+print（"Hello World"）
+在txt文件里面编辑，后缀名改成.py,编码改成UTF-8.文件名01.py
+然后用Python解释器运行代码
+DOS窗口输入Python.exe 01.py
+
+”脚本式“编程
+1.编写代码
+2.运行
+3.调试代码(debug)
+
+2022/7/27
+一定要选择编码格式
+拓展名.py用实心圆点
+
+用input()可以接受键盘输入
+变量是用来存放数据的
+变量不需要引号
+
+变量位于计算机内存中，用来存储数据
+变量有不同的类型（str、int...）
+不同类型间可以相互转换
+
+布尔型变量
+布尔型变量变量只有两种取值:真 或者 假
+在python中,
+ 用单词True来表示 真
+ 用单词False来表示 假
+ 注意大小写
+在C语言中，
+ 用数字1表示 真
+ 用数字0表示 假
+C语言中用 ！表示 不
+逻辑运算符
+and(与):同时为真才为真
+or(或):同时为假才为假
+not(非)就是要和你对着干
+
+if函数
+ if语句三中形态
+  1.if 比较语句
+  2.elif
+  3.else
+语句块的定义方式：冒号+缩进
+ 冒号之后缩进排班
+ 在Python中,以冒号开头的、具有相同缩进的一行多行代码，构成一个语句块。
+Python中所有的关键字都是英文
+
+
+
+
+ 
+
