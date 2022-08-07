@@ -1,0 +1,8 @@
+1.web 标准
+    HTML---结构
+    css---表现
+    JavaScript---行为
+2.HTML的概念
+    HTML(Hyper Text Markup Language)中文译为:超文本标记语言
+      专门用于网页开发的语言,主要通过GTML标签
+    案例:文字变粗案例
