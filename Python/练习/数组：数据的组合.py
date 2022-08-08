@@ -22,16 +22,16 @@ print(fs[3])
 print(fs[4])
 
 2.
-fs=[90,85,60,87,99]
-i=1
-while i<5:
-	fs[i]+=1
+fs=[90,85,60,87,99] #定义数组fs
+i=1                 #定义变量i为1
+while i<5:			#数组中每组数据都+1	
+	fs[i]+=1		#
 	i+=1
-print(fs[0])
-print(fs[1])
-print(fs[2])
-print(fs[3])
-print(fs[4])
+print(fs[0])		#
+print(fs[1])		#
+print(fs[2])		#	
+print(fs[3])		#
+print(fs[4])		#
 
 3.
 fs=[90,85,60,87,99]
