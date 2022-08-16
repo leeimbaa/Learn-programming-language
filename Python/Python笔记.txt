@@ -1,10 +1,3 @@
-什么是爬虫：
-	-通过编写程序，模拟浏览器上网，然后让其去互联网上抓取数据的过程。
-  
-爬虫的价值：
-	-实际应用
-	-就业
-
 安装https://www.sublimetext.com/文本编辑器
 安装Python时一定要把"Add Python 3.7 to PATH"勾选上
 Python的解释器:Python.exe
