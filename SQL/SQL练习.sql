@@ -22,10 +22,6 @@ FROM customers
 -- WHERE customer_id=1
 ORDER BY first_name
 
-SELECT last_name,first_name,customer_id,city,points
+SELECT *
 FROM customers
--- WHERE customer_id=1
--- ORDER BY frist_name
-
-
-
+ORDER BY first_name,last_name,customer_id,city,points
